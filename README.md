@@ -76,15 +76,7 @@ results = model.predict(source='path/to/sample_video.mp4', save=True)
 
 ### Results
 
-We can visualize important evaluation metrics after the model has been trained using the following code:
-
-![alt text](image-2.png)
-
-![alt text](image-3.png)
-
-![alt text](image-4.png)
-
-![alt text](image-5.png)
+We can visualize important evaluation metrics after the model has been trained
 
 
 
