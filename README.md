@@ -48,7 +48,7 @@ Here’s a step-by-step process to run the entire project in a Google Colab note
 
 ## 2. Clone the Repository:
 
-!git clone https://github.com/yourusername/smart-retail-yolov8.git
+!git clone  https://github.com/dannymensah26/Grocery_Product_Detection_YoloV8.git
 %cd smart-retail-yolov8
 
 ## 3. Download Dataset:
