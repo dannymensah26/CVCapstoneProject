@@ -1,7 +1,3 @@
-# End to end Computer Vision Project
-
-# End to end Computer Vision Project
-
 ### Instructions:
 
 ## Object Detection and Recognition in Smart Retail Using Computer Vision Models using YOLOV8
